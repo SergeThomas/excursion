@@ -1,8 +1,31 @@
-html {
+/* html {
     background-color: black;
+} */
+
+body {
+    background-color: black;
+    text-align: center;
 }
 
-h1,
-p {
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
     color: white;
+    text-align: center;
+}
+
+h3 {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+p {
+    font-family: Verdana;
+    font-size: 21px;
+    color: grey;
+}
+
+footer p {
+    text-align: right;
 }
